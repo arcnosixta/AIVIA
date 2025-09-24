@@ -2,10 +2,10 @@ import 'dart:io' show Platform;
 import 'package:package_info_plus/package_info_plus.dart';
 
 class AppConst {
-  static const userAgentAppName = "OpenNutriTracker";
+  static const userAgentAppName = "AIVIA";
   static const platformNameAndroid = "Android";
   static const platformNameIOS = "iOS";
-  static const reportErrorEmail = "opennutritracker-dev@pm.me";
+  static const reportErrorEmail = "arcnosixta@gmail.com";
   static const sourceCodeUrl =
       "https://github.com/simonoppowa/OpenNutriTracker";
 
